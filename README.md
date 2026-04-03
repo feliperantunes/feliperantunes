@@ -5,7 +5,7 @@ Estou criando pequenos projetos e resolvendo exercícios que me ajudam a melhora
 
 No cotidiano trabalho com dados, utilizando SQL Server e Power BI, o que me auxilia em visualizar como sistemas em geral funcionam.
 
-Para entrar em contato deixo abaixo meu linkedin e e-mail:
+Para entrar em contato deixo abaixo meu linkedin e e-mail:<br>
 Linkedin: [Felipe Antunes](https://www.linkedin.com/in/felipe-antunes-036541298/)<br>
 E-mail: feliperodriantunes@gmail.com
 
