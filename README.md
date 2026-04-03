@@ -1,4 +1,13 @@
-## Hi there 👋
+## Olá! ミ
+
+Me chamo Felipe, um estudande de técnologia focado em me tornar um desenvolvedor back-end com Java ☕.
+Estou criando pequenos projetos e resolvendo exercícios que me ajudam a melhorar minha lógica de programação, raciocinio, orientação a objetos e estrutura de dados.
+
+No cotidiano trabalho com dados, utilizando SQL Server e Power BI, o que me auxilia em visualizar como sistemas em geral funcionam.
+
+Para entrar em contato deixo abaixo meu linkedin e e-mail
+Linkedin: https://www.linkedin.com/in/felipe-antunes-036541298/
+E-mail: feliperodriantunes@gmail.com
 
 <!--
 **feliperantunes/feliperantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
