@@ -7,9 +7,9 @@ No cotidiano trabalho com dados, utilizando SQL Server e Power BI, o que me auxi
 
 Tecnologias: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />                
+<img align="center" height="30" width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />         
+<img align="center" height="30" width="40" alt="mySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" height="30" width="40" alt="SSMS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />                
 
 Para entrar em contato deixo abaixo meu linkedin e e-mail:<br>
 Linkedin: <a href="https://www.linkedin.com/in/felipe-antunes-036541298/" target="_blank">Felipe Antunes</a><br>
