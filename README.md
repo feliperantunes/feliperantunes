@@ -31,8 +31,9 @@ No cotidiano trabalho com dados, utilizando SQL Server e Power BI, o que me auxi
     <li>
       <div>
         IDEs:<br>
-        <img align="center" height="50" width="60" alt="IntelliJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+        <img align="center" height="50" width="60" alt="DataGrip" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" />  
         <img align="center" height="50" width="60" alt="Pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+        <img align="center" height="50" width="60" alt="IntelliJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
         <img align="center" height="50" width="60" alt="VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
       </div>
     </li>
@@ -43,7 +44,7 @@ Para entrar em contato deixo abaixo meu linkedin e e-mail:<br>
 <img align="center" height="20" width="20" alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 Linkedin: <a href="https://www.linkedin.com/in/felipe-antunes-036541298/" target="_blank">Felipe Antunes</a><br>
 <img align="center" height="20" width="20" alt="Gmail" src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000"/>
-E-mail: feliperantuens1@gmail.com
+E-mail: feliperantunes1@gmail.com
 
 <!--
 **feliperantunes/feliperantunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
