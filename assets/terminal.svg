@@ -18,31 +18,31 @@
   <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
   <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
   <circle cx="62" cy="18" r="6" fill="#27c93f"/>
-  <text x="400" y="23" text-anchor="middle" class="t">felipe@jupiter: ~</text>
+  <text x="400" y="23" text-anchor="middle" class="t">felipe@readme: ~</text>
 
   <!-- whoami -->
-  <text x="20" y="68"><tspan class="g">felipe@jupiter</tspan>:<tspan class="b">~</tspan>$ whoami</text>
+  <text x="20" y="68"><tspan class="g">felipe@readme</tspan>:<tspan class="b">~</tspan>$ whoami</text>
   <text x="20" y="92">felipe, estudante de tecnologia</text>
 
   <!-- sobre -->
-  <text x="20" y="140"><tspan class="g">felipe@jupiter</tspan>:<tspan class="b">~</tspan>$ cat sobre.txt</text>
+  <text x="20" y="140"><tspan class="g">felipe@readme</tspan>:<tspan class="b">~</tspan>$ cat sobre.txt</text>
   <text x="20" y="164">Crio pequenos projetos e resolvo exercícios pra afiar minha lógica,</text>
   <text x="20" y="188">raciocínio, orientação a objetos e estrutura de dados.</text>
   <text x="20" y="212">No dia a dia trabalho com dados (SQL Server e Power BI),</text>
   <text x="20" y="236">e isso me ajuda a enxergar como os sistemas funcionam.</text>
 
   <!-- stack -->
-  <text x="20" y="284"><tspan class="g">felipe@jupiter</tspan>:<tspan class="b">~</tspan>$ cat stack.txt</text>
+  <text x="20" y="284"><tspan class="g">felipe@readme</tspan>:<tspan class="b">~</tspan>$ cat stack.txt</text>
   <text x="20" y="308"><tspan class="k">backend        </tspan><tspan class="v">Java  Python</tspan></text>
   <text x="20" y="332"><tspan class="k">databases      </tspan><tspan class="v">MySQL  SQL Server</tspan></text>
   <text x="20" y="356"><tspan class="k">versionamento  </tspan><tspan class="v">Git</tspan></text>
   <text x="20" y="380"><tspan class="k">ides           </tspan><tspan class="v">DataGrip  PyCharm  IntelliJ  VS Code</tspan></text>
 
   <!-- contato -->
-  <text x="20" y="428"><tspan class="g">felipe@jupiter</tspan>:<tspan class="b">~</tspan>$ cat contato.txt</text>
+  <text x="20" y="428"><tspan class="g">felipe@readme</tspan>:<tspan class="b">~</tspan>$ cat contato.txt</text>
   <text x="20" y="452"><tspan class="k">linkedin  </tspan><tspan class="v">linkedin.com/in/felipe-antunes-036541298</tspan></text>
   <text x="20" y="476"><tspan class="k">email     </tspan><tspan class="v">feliperantunes1@gmail.com</tspan></text>
 
   <!-- prompt final com cursor piscando -->
-  <text x="20" y="524"><tspan class="g">felipe@jupiter</tspan>:<tspan class="b">~</tspan>$ <tspan class="cursor">█</tspan></text>
+  <text x="20" y="524"><tspan class="g">felipe@readme</tspan>:<tspan class="b">~</tspan>$ <tspan class="cursor">█</tspan></text>
 </svg>
